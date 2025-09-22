@@ -16,6 +16,6 @@
 - Excel (for comparison)
 
 ## Files
-- `raw_data.csv` → Original dataset with errors.
-- `clean_data.csv` → Cleaned dataset.
-- `cleaning_task.ipynb` → Jupyter Notebook with code.
+- `netflix_titles.csv` → Original dataset with errors.
+- `netflix_titles_cleaned.csv` → Cleaned dataset.
+- `data_preprocessing.py` → code.
